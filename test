@@ -1,0 +1,8 @@
+
+git remote -v
+
+
+git remote add origin https://github.com/username/my-project.git
+
+
+
